@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2021-02-09T14:28:40.382-05:00
+  initializedAtString: 2021-02-09T13:20:08.941-05:00
+  log:
+  - commitID: 7a3b1a4ee056b62e3b70260d4841620efd3fc518
+    mergeA: 
+    mergeB: 
+    authorName: Noah Reece
+    authorEmail: noah.w.reece@gmail.com
+    commitEmail: noah.w.reece@gmail.com
+    commitName: Noah Reece
+    summary: Ignoring "Plugins" Contents in Assets Folder
+    description: 
+    timeString: 2021-02-09T13:50:44.000-05:00
+    commitTimeString: 2021-02-09T13:50:44.000-05:00
+    changes:
+    - path: .gitignore
+      fullPath: /Users/noahreece/unity-version-control/.gitignore
+      projectPath: ../.gitignore
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 722f100e7f5dae1a346182b802ceae33e9412523
+    mergeA: 
+    mergeB: 
+    authorName: ArkfulDodger
+    authorEmail: 65669992+ArkfulDodger@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Initial commit
+    description: 
+    timeString: 2021-02-09T12:55:48.000-05:00
+    commitTimeString: 2021-02-09T12:55:48.000-05:00
+    changes:
+    - path: .gitignore
+      fullPath: /Users/noahreece/unity-version-control/.gitignore
+      projectPath: ../.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
